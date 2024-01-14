@@ -14,4 +14,14 @@ Initially, our attempt to construct a custom CNN yielded suboptimal results. Rec
 
 After extensive experimentation, we found that employing the regression-based approach led us to the most accurate predictions for our model with the lowest Root Mean Square Error (RMSE) score. This comprehensive exploration of model architectures and data representations underscores our commitment to delivering a robust AI-based tool for PetFinder, poised to make a meaningful impact on the lives of stray and shelter animals globally.  
 
+There are 2 solution routes and the corresponding ipynb files are listed respectively.  
+1. If viewing the problem as a regression task, we use:  
+   (1) Data-preprocessing_on_image_array.ipynb  
+   (2) CNN_regression_on_pawpularity_score.ipynb  
+2. If Viewign the problem as a classification task, we use:  
+   (1) Data-preprocessing_on_image_array.ipynb  
+   (2) Data-preprocessing_on_onehot_encoding_on_metadata.ipynb  
+   (3) CNN_classification_on_pawpularity.ipynb    
+
 ### Other elaborations on methedoogy, exploratory data analysis, code comments, model performance, and future step are lal in Project_write_up_document.pdf.  
+
