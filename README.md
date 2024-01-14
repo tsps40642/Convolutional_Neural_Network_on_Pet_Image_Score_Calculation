@@ -25,3 +25,4 @@ There are 2 solution routes and the corresponding ipynb files are listed respect
 
 ### Other elaborations on methedoogy, exploratory data analysis, code comments, model performance, and future step are lal in Project_write_up_document.pdf.  
 
+### Credit to other team members: Guoquan Lin, Otto Gaulke, Yen Chen Hsu, Joyce Wu  
