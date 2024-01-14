@@ -23,6 +23,9 @@ There are 2 solution routes and the corresponding ipynb files are listed respect
    (2) Data-preprocessing_on_onehot_encoding_on_metadata.ipynb  
    (3) CNN_classification_on_pawpularity.ipynb    
 
+Data source from a past Kaggle competition:   
+(PetFinder.my - Pawpularity Contest) https://www.kaggle.com/competitions/petfinder-pawpularity-score/overview  
+
 ### Other elaborations on methedoogy, exploratory data analysis, code comments, model performance, and future step are lal in Project_write_up_document.pdf.  
 
 ### Credit to other team members: Guoquan Lin, Otto Gaulke, Yen Chen Hsu, Joyce Wu  
